@@ -1,0 +1,58 @@
+HTML:
+<div>, <span>, <sup>, <sub>, and dont forget about <br>.
+Enteties => signs with code.....&#76182 somtehing like that
+<section>
+<article>
+<nav>
+<main>
+<header>
+<footer>
+<aside>
+<summary>
+<detail>
+<figure> => <figcaption> DONT FORGEt!!
+<--! Table use simple -->
+<table>
+    <thead>
+        <tr>
+            <th>Subscription</th>
+            <th>Price</th>
+            <th>Support</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Free</td>
+            <td>Free</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>Personal</td>
+            <td>$9.99</td>
+            <td>Weekdays</td>
+        </tr>
+        <tr>
+            <td>Business</td>
+            <td>$49.99</td>
+            <td>24/7</td>
+        </tr>
+    </tbody>
+
+</table>
+
+there are alot of input types can search in google for more.
+include placeholder too ok/
+<input type = "number" id = "number"> => takes number only as input. Can be useful in checking passcodes.
+<label for = "number">Enter code</label>
+
+//if we put id from input tag in label tag, then when the mouse is clicked in a text from input tag, the cursor 
+will automatically goes in that field.
+<botton> tag use gareko ramro 
+input vitra type = botton garyp vane submit gardaina button matra dekhauxa.
+type = submit garyo vane chai submit garxa
+form vitra hunu parxa 
+name attribute le chai form bata aayeko value lai server ma lagxa.
+
+checkbox le multiple choose garna milxa 
+radio le chai euta matra choose garna milxa
+select le chai drop menu aauxa.
